@@ -1,0 +1,8 @@
+{
+  "prediction_config": {
+    "checkpoint_name": "simple_sage-mountain-12_best",
+    "predict": {
+      "num_of_actions": 2
+    }
+  }
+}
